@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">I'm an upcoming Software Engineer Passionate to learn 🤓</h3>
+<h3 align="center">I'm an upcoming Software Engineer passionate to learn 🤓</h3>
 
 - 🔭 I’m currently working on **CardGen**
 
