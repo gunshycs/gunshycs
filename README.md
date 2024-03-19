@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Sanchez</h1>
 
 <p align="center">
- ![giphy (1)](https://github.com/gunshycs/gunshycs/assets/70672556/83fb07e1-ef84-4b22-8530-97cb93a29576)
+![giphy (1)](https://github.com/gunshycs/gunshycs/assets/70672556/83fb07e1-ef84-4b22-8530-97cb93a29576)
 </p>
 
 
