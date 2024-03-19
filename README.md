@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **christiansanchez1258@gmail.com**
 
-- ⚡ Fun fact **I love playing my drum set or guitar 🎸**
+- ⚡ Fun fact **I love playing my drum set and guitar 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
