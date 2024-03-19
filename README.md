@@ -20,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://calendly.com/gunshycs/chat-with-me
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
