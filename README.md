@@ -10,7 +10,7 @@
 
 <h3 align="center">I'm an upcoming Software Engineer passionate to learn 👩‍💻</h3>
 
-- 🔭 I’m currently working on **CardGen**
+- 🔭 I’m currently working on **Automation**
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Optical Character Recognition**
 
